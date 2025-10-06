@@ -1,0 +1,6 @@
+print("Welcome to brande name Genator")
+city=input("what is name of yout city:")
+print(city)
+pet=input("Name of your pet:")
+print (pet)
+print("\n Your band naem could be " + city + " "+pet)
